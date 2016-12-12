@@ -1,8 +1,8 @@
 # FS
 FS2013 calendar mod
 
-- converts game days to a day of the week, date and year (day 1 is January 1, 2013)
-- adds seasonality to the game
+- converts game days to day of the week, date and year (day 1 is January 1, 2013)
+- adds seasonality
     ..weather and temperature changes (cold in winter/hot in summer)
     ..crop planting seasons (seeding is disabled for crops depending on the month)
 
