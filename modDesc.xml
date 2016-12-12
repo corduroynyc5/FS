@@ -23,9 +23,6 @@
     </extraSourceFiles>
 	
 	 <l10n>
-        <!--<text name="Date">
-            <en>Date: %2.1f%%</en>
-            <de>Date: %2.1f%%</de>
-        </text>-->
+        
 	</l10n>
 </modDesc>
