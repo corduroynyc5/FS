@@ -4,16 +4,16 @@
     <version>1.0</version>
     <title>
         <en>calendar</en>
-		<de>calendar</de>
+	<de>calendar</de>
     </title>
     <description>
         <en>
 		calendar
-		</en>
+	</en>
         
-		<de>
+	<de>
 		calendar
-		</de>
+	</de>
     </description>
     <iconFilename>store.dds</iconFilename>
     <multiplayer supported="true"/>
