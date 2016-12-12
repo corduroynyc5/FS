@@ -8,8 +8,8 @@ FS2013 calendar mod
     
     ..crop planting seasons (seeding is disabled for crops depending on the month)
 
-Note: For more realism, extend the growth times of your crops in your map.i3d file.
-      This is a functioning mod but still in progress so there are a lot of print statements that will show up in your log..sorry!
+Notes: For more realism, extend the growth times of crops in your map.i3d file.
+       This is a functioning mod but still in progress so there are a lot of print statements that will show up in your log..sorry!
 
 
 - TODOs:
