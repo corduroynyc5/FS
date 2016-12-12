@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="9">
+    <author>MCB</author>
+    <version>1.0</version>
+    <title>
+        <en>calendar</en>
+		<de>calendar</de>
+    </title>
+    <description>
+        <en>
+		calendar
+		</en>
+        
+		<de>
+		calendar
+		</de>
+    </description>
+    <iconFilename>store.dds</iconFilename>
+    <multiplayer supported="true"/>
+	
+    <extraSourceFiles>
+        <sourceFile filename="calendar.lua"/>
+    </extraSourceFiles>
+	
+	 <l10n>
+        <!--<text name="Date">
+            <en>Date: %2.1f%%</en>
+            <de>Date: %2.1f%%</de>
+        </text>-->
+	</l10n>
+</modDesc>
