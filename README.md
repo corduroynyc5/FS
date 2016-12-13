@@ -1,4 +1,4 @@
-# FS2013
+# FS2013-Calendar
 FS2013 calendar mod
 
 - converts game days to day of the week, date and year (day 1 is January 1, 2013)
